@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AndoidSimpleList</string>
+    <string-array name="majina">
+        <item>Bonface</item>
+        <item>Osindi</item>
+        <item>Monicah</item>
+        <item>Bina</item>
+        <item>Linet</item>
+        <item>Keng'aya</item>
+        <item>Moige</item>
+        <item>Gladys</item>
+        <item>Patrick</item>
+        <item>Marionya</item>
+        <item>Orina</item>
+        <item>Bina</item>
+        <item>Nani</item>
+        <item>BaBu</item>
+        <item>Kevin</item>
+        <item>Kimote</item>
+        <item>Joseph</item>
+        <item>Brian</item>
+        <item>Deborah</item>
+        <item>Omwenga</item>
+        <item>Diana</item>
+        <item>Miraji</item>
+        <item>Bonny</item>
+        <item>Opiyo</item>
+        <item>Jose</item>
+        <item>Waweru</item>
+        <item>Alfred</item>
+        <item>Mogoa</item>
+    </string-array>>
+</resources>
